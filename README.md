@@ -43,7 +43,6 @@ scrapy crawl dataTiki -a keyWord=NAMEKEYWORD -a limitProduct=50  \
                       -o PATHNAME/NAME.json
 ```
 
-### NOTE: 
-You can leave out some parameters and it will be the default when crawling
+### NOTE: You can leave out some parameters and it will be the default when crawling
 
 
