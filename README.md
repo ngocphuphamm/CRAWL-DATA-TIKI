@@ -19,7 +19,7 @@ Framework: scrapy-splash
 ```
 optional arguments:
   -a keyWord      : search for keywords crawl
-  -a typeImage       : type images 
+  -a typeImage    : type images 
   -a limitProduct : number of product crawls
   -a pathName     : direct image
   -o              : output file name(json format,jcsv)
